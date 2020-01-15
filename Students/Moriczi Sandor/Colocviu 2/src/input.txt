@@ -1,0 +1,4 @@
+3
+Parasinus b 12 12
+medicament c 20 10
+medicament2 c 24
